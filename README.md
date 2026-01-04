@@ -10,7 +10,7 @@ pinned: false
 ---
 
 # FedAcq-RAG-Chatbot
-## Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot
+## Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot 
 
 ### Problem:
 Sought to create a chatbot to answer all questions related to federal acquisition policies and laws, providing a prototype for a tool that cites the specific statutes. This is a tool that can be used by private industry, the federal government, and can be a template for state, local, and tribal governments.
